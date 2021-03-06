@@ -6,3 +6,12 @@ Our client Louise would like to understand more about prior analysis on Kickstar
 
 ### Purpose
 
+
+
+### Analysis of Outcomes based on Launch Date
+Figure 1
+![Outcomes_vs_Launch_Date] 
+### Analysis of Outcomes based on Goals
+
+
+
