@@ -15,7 +15,8 @@ Figure 1
 
 ### Analysis of Outcomes based on Goals
 Figure 2
-![Outcomes_based_on_Goals] (Outcomes_vs_Goals.png)
+![Outcomes_based_on_Goals] 
+(Outcomes_vs_Goals.png)
 
 
 
