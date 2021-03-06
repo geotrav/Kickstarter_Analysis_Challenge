@@ -14,6 +14,8 @@ Figure 1
 (Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes based on Goals
+Figure 2
+![Outcomes_based_on_Goals] (
 
 
 
