@@ -10,7 +10,9 @@ Our client Louise would like to understand more about prior analysis on Kickstar
 
 ### Analysis of Outcomes based on Launch Date
 Figure 1
-![Outcomes_vs_Launch_Date] 
+![Theater_Outcomes_vs_Launch_Date] 
+(Theater_Outcomes_vs_Launch.png)
+
 ### Analysis of Outcomes based on Goals
 
 
