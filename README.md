@@ -30,9 +30,7 @@ Figure 1
   11)45000 to 49999
   12)greater than 50000
 
-  Utilizing Excel's countifs function, the subcategories of plays were counted based on their success, failure, and canceled designation for each of the fundraising goals listed above.  The total sum of the projects in each goal range were summed and then percentages for the successful, failed, and canceled outcomes were calculated.  Please refer to the
-
-
+  Utilizing Excel's countifs function, the subcategories of plays were counted based on their success, failure, and canceled designation for each of the fundraising goals listed above.  The total sum of the projects in each goal range were summed and then percentages for the successful, failed, and canceled outcomes were calculated.  Please refer to the worksheet for the individual numbers.  A line chart was made with the lines for each of the successful, failed and canceled campaign outcomes with percentage on the y axis and goals values on the x axis.  This is provided in Figure 2 below.
 Figure 2
 ![Outcomes_based_on_Goals](Outcomes_vs_Goals.png)
 
